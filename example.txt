@@ -1,0 +1,1 @@
+Это пример в ветке feature-bransh
